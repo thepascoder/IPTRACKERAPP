@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: "Courier New", monospace;
-    /* color: rgb(95, 99, 104); */
     color: white;
     background-color: rgb(40, 40, 40);
 }
@@ -17,8 +16,6 @@ body {
     margin: 14vh auto 0;
 }
 .cntr {
-    /* background-color: white; */
-    /* border: 2px solid gray; */
     border: 4px solid yellow;
     background-color:yellowgreen;
     border-radius: 5px;
