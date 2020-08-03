@@ -23,7 +23,20 @@ body {
     background-color:yellowgreen;
     border-radius: 5px;
     padding: 10px;
-    
+}
+      
+#ipData {
+    margin-top: 30px;
+    padding: 10px;
+    /* background-color: rgba(105, 189, 137, 0.205);     */
+    /* border: 2px solid blue; */
+    border-radius: 5px;
+    line-height: 1px;
+    /* height: 300px; */
+    overflow: auto;
+    /* background-color: gainsboro; */
+    background-color: black;
+    border: 4px solid red;
 }
 
 
@@ -54,38 +67,6 @@ button.details {
     display: none;
 }
 
-.mySocials {
-    /* position: absolute;
-    top: 100px; */
-    margin: auto;
-    border: 2px solid black;
-    border-radius: 50px;
-    height: 50px;
-    width: 200px;
-    color: white;
-    background-color: red;
-}
-
-.icon {
-    /* position: absolute; */
-    left: 40px;
-    color: black;
-}
-
-#ipData {
-    margin-top: 30px;
-    padding: 10px;
-    /* background-color: rgba(105, 189, 137, 0.205);     */
-    /* border: 2px solid blue; */
-    border-radius: 5px;
-    line-height: 1px;
-    /* height: 300px; */
-    overflow: auto;
-    /* background-color: gainsboro; */
-    background-color: black;
-    border: 4px solid red;
-}
-
 #errText {
     color: white;
     background-color: red;
@@ -98,6 +79,10 @@ img {
 
 b {
     color: white;
+}
+
+.icon {
+    color: blueviolet;
 }
  
 .btn {
